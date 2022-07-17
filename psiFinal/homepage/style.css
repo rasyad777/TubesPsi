@@ -1,0 +1,26 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* NavBar*/
+
+.navbar-nav {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+}
+
+.nav-link {
+  margin-right: 25px;
+}
+
+/* konten */
+
+.kolom {
+  margin-top: -400px;
+  margin-left: 550px;
+}
